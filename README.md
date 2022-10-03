@@ -5,4 +5,4 @@ Pengiriman Barang Antar Provinsi
 ```bash
 Open API
 ```
-![img 1](Capture.png)
+![img 1](Capture.PNG)
